@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/hsbc-day/language-masters/en:/",
+    "/content/hsbc-day/language-masters/en/:/en/",
+    "/content/hsbc-day/language-masters/fr/:/fr/",
+    "/content/hsbc-day/language-masters/fr:/fr",
+    "/content/hsbc-day/language-masters/es/:/es/",
+    "/content/hsbc-day/language-masters/es:/es",
+    "/content/hsbc-day/language-masters/ja/:/ja/",
+    "/content/hsbc-day/language-masters/ja:/ja",
+    "/content/hsbc-day/language-masters/de/:/de/",
+    "/content/hsbc-day/language-masters/de:/de",
+    "/content/hsbc-day/configuration:/.helix/config.json",
+    "/content/hsbc-day/metadata:/metadata.json",
+    "/content/hsbc-day/redirects:/redirects.json",
+    "/content/hsbc-day/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/hsbc-day/",
+    "/content/dam/hsbc-day/"
   ]
 }
